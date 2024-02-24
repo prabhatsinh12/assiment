@@ -1,0 +1,215 @@
+{\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033\deflangfe1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Calibri;}{\f1\fnil\fprq2\fcharset2 Wingdings;}}
+{\colortbl ;\red196\green89\blue17;\red255\green0\blue0;\red68\green114\blue196;\red68\green84\blue106;}
+{\*\generator Riched20 10.0.22621}{\*\mmathPr\mnaryLim0\mdispDef1\mwrapIndent1440 }\viewkind4\uc1 
+\pard\nowidctlpar\sa200\sl276\slmult1\cf1\ul\b\f0\fs44\lang9 Prabhat\cf2\ulnone\par
+
+\pard\nowidctlpar\sa200\sl276\slmult1 Module 4 (Network Configuration)\par
+\cf3\fs40 Topic: Local area networking\par
+\cf0\f1\fs28    \cf4\f0\fs36 Assignment level Basic:\cf0\fs28\par
+\fs36 1. What is Network?\par
+ANS: \lang1033 Group of connected computers called network\b0\fs22 .\par
+\b\fs36 A network consists of two or more computers that are linked in order to share resources (such as printers and CDs), exchange files, or allow electronic communications. The computers on a network may be linked through cables, telephone lines, radio waves, satellites, or infrared light beams\cf4\lang9\par
+\cf0 2. What is Internet & Intranet?\par
+Ans: the internet is a global computer network that allows for information exchange between devices. An intranet is a private network that is only accessible to members of an organization. An intranet is internal and only accessible to members of an organization.\par
+ Assignment level Intermediate:\par
+
+\pard 
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\nowidctlpar\fi-360\li720\sa200\sl276\slmult1 How many types of Network we used?\par
+
+\pard\nowidctlpar\li360\sa200\sl276\slmult1 Ans: mainly there are three types of networks: LAN (local area network), WAN (wide area network), and WAN (metropolitan area network). LAN is used to connect devices in a small area like building, office, etc. MAN covers the devices connected within a town or a city.\par
+
+\pard\nowidctlpar\fi-360\li720\sa200\sl276\slmult1 2.\tab Different between LAN & PAN?\par
+
+\pard\nowidctlpar\li360\sa200\sl276\slmult1 Ans: LAN stands for local area network. PAN stands for personal area network. The major difference between these networks is that a PAN connects the devices within the sort range of an individual person, whereas a LAN connects devices at a single site, typically an office building.  \par
+
+\pard\nowidctlpar\sa200\sl276\slmult1  \cf4 Assignment level advance:\par
+
+\pard 
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\nowidctlpar\fi-360\li720\sa200\sl276\slmult1\cf0 Explain LAN?\par
+
+\pard\nowidctlpar\li360\sa200\sl276\slmult1 Ans: LAN stands for local area network.\b0\fs22\lang1033  \b\fs36 This is one of the original categories of network, and one of the simplest. LAN networks connect computers together over relatively small distances, such as within a single building or within a small group of buildings. Homes often have LAN networks too, especially if there is more than one device in the home. Often they do not contain more than one subnet, if any, and are usually controlled by a single administrator. They do not have to be connected to the internet to work, although they can be.\lang9\par
+
+\pard\nowidctlpar\fi-360\li720\sa200\sl276\slmult1 2.\tab What are different types of LAN devices?\par
+
+\pard\nowidctlpar\li360\sa200\sl276\slmult1 Ans: peer to peer(p2p) LAN, token ring LAN, token bus LAN, wired LAN, cloud-managed LAN, public internet, wired end-user devices,\par
+
+\pard\nowidctlpar\sa200\sl276\slmult1\cf2\fs40 Topic: configured Network\par
+\cf4\fs36  Assignment Level Basic\par
+
+\pard 
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\nowidctlpar\fi-360\li720\sa200\sl276\slmult1\cf0 What is configured network? \par
+
+\pard\nowidctlpar\li360\sa200\sl276\slmult1 Ans: network configuration is the process of assigning network settings, policies, flows, and controls. In a virtual network, it\rquote s easier to make network configuration changes because physical network devices appliances are replaced by software, removing the need for extensive manual configuration.\par
+
+\pard\nowidctlpar\fi-360\li720\sa200\sl276\slmult1 2.\tab How do we configure network?\par
+
+\pard\nowidctlpar\li360\sa200\sl276\slmult1 Ans: 1> set up user accounts.\par
+    2> configure network settings\par
+    3> install and configure applications\par
+    4> set up shared resources.\par
+    5> configure security measures\par
+   6>set server backup\par
+   7> test the server \par
+
+\pard\nowidctlpar\sa200\sl276\slmult1  \cf4\fs40 Assignment level Intermediate.\par
+\cf0\fs36 1.How to check the IP address?\par
+Ans: \par
+2.How to check the IP address through CMD?\par
+Ans: right- click the windows start menu and select Run. Type CMD in the search filed and click ok. In command prompt, type ipconfig and press enter. Scroll to ipv4 address to see your local IP address.\par
+3.How can we enter static address in network adapter?\par
+Ans: under advanced network settings, click change adapter options. Right-click the adapter you want to set a static IP address for and choose properties. In the properties window, double-click internet protocol versi4 (TCP/Ipv4). Click ok to save the changes.\par
+\f1   \cf4\f0\fs40 Assignment Level Advanced\par
+
+\pard 
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\nowidctlpar\fi-360\li720\sa200\sl276\slmult1\cf0\fs36 Do a practical to release the packets from the adapter. \par
+
+\pard\nowidctlpar\li360\sa200\sl276\slmult1 Ans: done\par
+
+\pard\nowidctlpar\fi-360\li720\sa200\sl276\slmult1 2.\tab Do a practical to renew the lease of the IP address.\par
+
+\pard\nowidctlpar\li360\sa200\sl276\slmult1 Ans: done\par
+
+\pard\nowidctlpar\fi-360\li720\sa200\sl276\slmult1 3.\tab Do a practical to check the connectivity to the google.\par
+
+\pard\nowidctlpar\li360\sa200\sl276\slmult1 Ans: done\par
+
+\pard\nowidctlpar\sa200\sl276\slmult1\cf2\fs44 Topic: Wireless networking\par
+\cf0\f1\fs36   \f0  \cf4\fs40 Assignment level Basic\cf0\fs36 :\par
+
+\pard 
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\nowidctlpar\fi-360\li720\sa200\sl276\slmult1 What is the difference between WEP and WPA?\par
+
+\pard\nowidctlpar\li360\sa200\sl276\slmult1 Ans: while WEP provides each authorized system with the same key, WPA uses the temporal key integrity protocol (TKIP), which dynamically changes the key that systems use.\par
+WEP stands for wired equivalent privacy, and WPA stands for wireless protected access. WPA2 is the second version of the WPA standard. Using some encryption is always better than using none, but WEP is the lest secure of these standards, and you should not use it if you can avoid it. \par
+
+\pard\nowidctlpar\fi-360\li720\sa200\sl276\slmult1 2.\tab What is Wireless Network?\par
+
+\pard\nowidctlpar\li360\sa200\sl276\slmult1 Ans: a wireless network is a computer network that uses wireless data connections between network nodes. Wireless networking allows homes, telecommunications networks and business installations to avoid the costly process of introducing cables into a building, or as connection between various equipment locations.\par
+
+\pard\nowidctlpar\sa200\sl276\slmult1\cf4\f1\fs40  \f0  Assignment level Intermediate:\par
+
+\pard 
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\nowidctlpar\fi-360\li720\sa200\sl276\slmult1\cf0\fs36 What is a wireless network connection?\par
+{\pntext\f0 2.\tab}Ans: wireless networks are computer networks that are not connected by Cables of any kind. The use of wireless network enables enterprises to avoid the costly process of introducing cables into buildings or as a connection between different equipment locations.\par
+{\pntext\f0 3.\tab}What are the basic concepts of networking?\par
+
+\pard\nowidctlpar\sa200\sl276\slmult1   Ans: network: a network is a collection of computers and   \par
+  Devices that are connected together to enable\par
+  Communication and data exchange.\par
+  Nodes: nodes are the devices that are connected to a \par
+  Network. These can include computers, servers, printers, \par
+  Routers, switches, and other devices.\par
+\cf4\fs40      Assignment level advance\cf0\fs36 :\par
+
+\pard 
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\nowidctlpar\fi-360\li720\sa200\sl276\slmult1 What do you need to know about networking?\par
+
+\pard\nowidctlpar\li360\sa200\sl276\slmult1 Ans: switches. A switch is essential to computer networking\par
+ethernet (cabling)\par
+network hubs\par
+routers\par
+firewall\par
+internet protocol (IP) addresses\par
+client and server\par
+wireless access points (WAPs)\par
+bandwidth\par
+
+\pard\nowidctlpar\sa200\sl276\slmult1 2. How do you explain computer networking?\par
+Ans: a computer network is a group of interconnected nodes or computing devices that exchange data and resources with each other. A network connection between these devices can be established using cable or wireless media.\par
+\par
+\cf2\fs44 Topic: THE Internet\par
+\cf0\f1\fs36   \f0  \cf4\fs40 Assignment level Basic:\par
+
+\pard 
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\nowidctlpar\fi-360\li720\sa200\sl276\slmult1\cf0\fs36 What do you mean by the term URL?\par
+
+\pard\nowidctlpar\li360\sa200\sl276\slmult1 Ans: URL stands for uniform resource locator.URL is address of a location on the internet, esp on the world wide web. A URL is nothing more than the address of a given unique resource on the web. Each valid URL points to a unique resource. Such resources can be an HTML page, a CSS document, an image, etc.\par
+
+\pard\nowidctlpar\fi-360\li720\sa200\sl276\slmult1 2.\tab Term which is used to see web pages is called what?\par
+
+\pard\nowidctlpar\li360\sa200\sl276\slmult1 Ans: a browser\par
+
+\pard\nowidctlpar\sa200\sl276\slmult1\f1    \cf4\f0\fs40 Assignment level Intermediate\cf0\fs36 :\par
+
+\pard 
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\nowidctlpar\fi-360\li720\sa200\sl276\slmult1 In the Ethernet which topology is used?\par
+
+\pard\nowidctlpar\li360\sa200\sl276\slmult1 Ans: bus topology is used with Ethernet.\par
+
+\pard\nowidctlpar\fi-360\li720\sa200\sl276\slmult1 2.\tab Set of rules and regulations while working on internet, which term is used?\par
+
+\pard\nowidctlpar\li360\sa200\sl276\slmult1 Ans: a protocol is a set of rules that communications between computers on a network. A network protocol defines rules and conventions for communication between network device.\par
+
+\pard\nowidctlpar\sa200\sl276\slmult1\cf4\f1\fs40    \f0  Assignment level advance:\par
+
+\pard 
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\nowidctlpar\fi-360\li720\sa200\sl276\slmult1\cf0\fs36 What do you mean by RAS?\par
+
+\pard\nowidctlpar\li360\sa200\sl276\slmult1 Ans: reliability, availability and serviceability (RAS) of a computer system have always been important factors in data processing. When we say that a particular computer system \ldblquote exhibits RAS characteristics\rdblquote  we mean that its design palaces a high  \par
+
+\pard\nowidctlpar\fi-360\li720\sa200\sl276\slmult1 2.\tab What are the main search engines to get more website URL on Internet?\par
+
+\pard\nowidctlpar\li360\sa200\sl276\slmult1 Ans: DuckDuckGo, Yandex, Baidu, Bing, Yahoo, Google \par
+
+\pard\nowidctlpar\fi-360\li720\sa200\sl276\slmult1 3.\tab What does the PROTOCOL consist of?\par
+
+\pard\nowidctlpar\li360\sa200\sl276\slmult1 Ans: in networking, a protocol is a set of rules for formatting and processing data. Network protocols are like a common language for computers. The computers within a network may use vastly different software and hardware; however, the use of protocols enables them to communicate with each other regardless.\par
+
+\pard\nowidctlpar\sa200\sl276\slmult1\cf2\fs44 Topic: Virtualization\par
+\cf0\f1\fs36   \cf4\f0\fs40 Assignment level Basic:\cf0\fs36\par
+
+\pard 
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\nowidctlpar\fi-360\li720\sa200\sl276\slmult1 What is Virtualization\par
+
+\pard\nowidctlpar\li360\sa200\sl276\slmult1 Ans: virtualization is a process that allows a computer to share its hardware resources with multiple digitally separated environments. Each virtualized environment runs within its allocated resources, such as memory, processing power, and storage.\par
+
+\pard\nowidctlpar\fi-360\li720\sa200\sl276\slmult1 2.\tab What is the Difference between Full Virtualization and Para Virtualization?\par
+
+\pard\nowidctlpar\li360\sa200\sl276\slmult1 Ans: Full Virtualization differs from Para Virtualization in that the unmodified operating system operates completely isolated. On the other hand, Para Virtualization does not fully isolate the OS but rather alters it to make it compatible with specific APIs. \par
+
+\pard\nowidctlpar\sa200\sl276\slmult1\f1   \f0  \cf4\fs40 Assignment level Intermediate:\cf0\fs36\par
+
+\pard 
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\nowidctlpar\fi-360\li720\sa200\sl276\slmult1 What is Hyper-visor?\par
+
+\pard\nowidctlpar\li360\sa200\sl276\slmult1 Ans: a hypervisor is a software that you can use to run multiple virtual machines on a single physical machine. Every virtual machine has its own operating system and applications. The hypervisor allocates the underlying physical computing resources such as CPU and memory to individual virtual machines as required.\par
+
+\pard\nowidctlpar\fi-360\li720\sa200\sl276\slmult1 2.\tab What are different hypervisors available in Linux?\par
+
+\pard\nowidctlpar\li360\sa200\sl276\slmult1 Ans: KVM(kernel- based virtual machine),VMware, vSphere hypervisor (ESXi) Microsoft hyper \endash  v server, and Xen, \par
+
+\pard\nowidctlpar\fi-360\li720\sa200\sl276\slmult1 3.\tab What is Virtualization and what are its types?\par
+
+\pard\nowidctlpar\li360\sa200\sl276\slmult1 Ans: Virtualization is technology that you can use to create virtual representations of servers, storage, networks and other physical machines. Virtual software mimics the functions of physical hardware to run multiple virtual machines simultaneously on a single physical machine.\par
+Types: data virtualization, data center virtualization, storage virtualization, network virtualization, desktop virtualization, application virtualization\par
+
+\pard\nowidctlpar\sa200\sl276\slmult1\f1   \cf4\f0\fs40 Assignment level advance\cf0\fs36 :\par
+
+\pard 
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\nowidctlpar\fi-360\li720\sa200\sl276\slmult1 Name the components that are used in VMware infrastructure What is benefits of Virtualization?\par
+
+\pard\nowidctlpar\li360\sa200\sl276\slmult1 Ans: ESX server host. virtual Centre server. Virtual infrastructure (VI) client.\par
+ Benefits: # reduced upfront hardware and continuing \par
+         Operating costs\par
+        Minimized or eliminated downtime\par
+       Increased IT productivity, efficiency, agility and\par
+        responsiveness\par
+        faster provisioning of applications and\par
+         resources.\par
+        simplified data center management.\par
+       \par
+}
+ 
